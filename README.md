@@ -10,7 +10,7 @@
 
 ---
 
-### 🚀 Sobre mí
+### Sobre mí
 * 🎓 Actualmente cursando el 3er semestre de **Ingeniería en Ciencia de Datos e Inteligencia Artificial** en la **ESPOL** (Guayaquil, Ecuador).
 * 🔬 **Junior Data Scientist** en el Grupo de Investigación en Inteligencia Artificial (GIIA) de la Universidad Bolivariana del Ecuador, colaborando en el proyecto **ENSO-SMART EC**.
 * 👩‍🏫 **Mentora virtual** en el *Club de Código Creativo* (Club de Chicas Programadoras), enseñando Python, HTML, CSS y JavaScript a niñas y jóvenes.
@@ -19,7 +19,7 @@
 
 ---
 
-### 💻 Stack Tecnológico y Herramientas
+### Stack Tecnológico y Herramientas
 
 #### 📊 Ciencia de Datos & Machine Learning
 <p>
